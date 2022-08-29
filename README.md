@@ -1,1 +1,1 @@
-# COVID-studty
+# COVID-study
